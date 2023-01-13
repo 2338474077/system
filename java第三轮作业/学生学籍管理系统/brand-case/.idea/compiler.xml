@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="brand-case" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_01_quickstart" target="1.5" />
+      <module name="spring_02_base_config" target="1.5" />
+      <module name="spring_03_bean_instance" target="1.5" />
+      <module name="spring_04_bean_lifecycle" target="1.5" />
+      <module name="spring_05_di_set" target="1.5" />
+      <module name="spring_06_di_constructor" target="1.5" />
+      <module name="spring_07_autoware" target="1.5" />
+      <module name="spring_08_di_collection" target="1.5" />
+      <module name="spring_09_datasource" target="1.5" />
+      <module name="spring_10_container" target="1.5" />
+      <module name="spring_11_annotation_bean" target="1.5" />
+      <module name="spring_12_annotation_bean_manager" target="1.5" />
+      <module name="spring_13_annotation_di" target="1.5" />
+      <module name="spring_14_annotation_third_bean_manager" target="1.5" />
+      <module name="spring_15_spring_mybatis" target="1.5" />
+      <module name="spring_16_aop_demo" target="1.5" />
+      <module name="spring_17_aop_quickstart" target="1.5" />
+      <module name="spring_18_aop_advice_type" target="1.5" />
+      <module name="spring_19_case_interface_run_speed" target="1.5" />
+      <module name="spring_20_aop_advice_data" target="1.5" />
+      <module name="spring_21_case_handle_password" target="1.5" />
+      <module name="spring_22_case_transfer" target="1.5" />
+      <module name="spring_case_log" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

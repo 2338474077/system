@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:22:04 +0800] "GET /brand-case/brand.html HTTP/1.1" 304 - http-bio-8080-exec-2 19
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:22:04 +0800] "POST /brand-case/brand/selectByPage?currentPage=1&pageSize=8 HTTP/1.1" 200 846 http-bio-8080-exec-2 35
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:40:27 +0800] "GET /brand-case HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:40:27 +0800] "GET /brand-case/ HTTP/1.1" 404 973 http-bio-8080-exec-3 18
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:40:28 +0800] "GET /brand-case/brand.html HTTP/1.1" 304 - http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:40:30 +0800] "POST /brand-case/brand/selectByPage?currentPage=1&pageSize=8 HTTP/1.1" 200 846 http-bio-8080-exec-5 550
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:42:59 +0800] "GET /brand-case HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:42:59 +0800] "GET /brand-case/ HTTP/1.1" 404 973 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:43:04 +0800] "GET /brand-case/login.jsp HTTP/1.1" 200 923 http-bio-8080-exec-4 51
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:43:07 +0800] "GET /brand-case/brand.html?username=admin&password=123456 HTTP/1.1" 304 - http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:00:43:08 +0800] "POST /brand-case/brand/selectByPage?currentPage=1&pageSize=8 HTTP/1.1" 200 846 http-bio-8080-exec-6 547
